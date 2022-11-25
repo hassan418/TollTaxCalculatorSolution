@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TTC.Api", "TTC.Api\TTC.Api.csproj", "{5C501A52-D8AF-4A1E-BECE-3BE7A5EB4C5A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TTC.Model", "TTC.Model\TTC.Model.csproj", "{E3104550-DB31-49BB-9052-93C864B0FA25}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TTC.Services", "TTC.Services\TTC.Services.csproj", "{54849D53-A8A7-48A2-B480-6901CBB0FB2E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C501A52-D8AF-4A1E-BECE-3BE7A5EB4C5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C501A52-D8AF-4A1E-BECE-3BE7A5EB4C5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C501A52-D8AF-4A1E-BECE-3BE7A5EB4C5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C501A52-D8AF-4A1E-BECE-3BE7A5EB4C5A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3104550-DB31-49BB-9052-93C864B0FA25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3104550-DB31-49BB-9052-93C864B0FA25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3104550-DB31-49BB-9052-93C864B0FA25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3104550-DB31-49BB-9052-93C864B0FA25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54849D53-A8A7-48A2-B480-6901CBB0FB2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54849D53-A8A7-48A2-B480-6901CBB0FB2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54849D53-A8A7-48A2-B480-6901CBB0FB2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54849D53-A8A7-48A2-B480-6901CBB0FB2E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CDC1548A-2E25-4F9E-8927-4034437D6574}
+	EndGlobalSection
+EndGlobal
